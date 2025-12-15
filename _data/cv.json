@@ -4,57 +4,57 @@
     "email": "wangzheng@suwon.ac.kr",
     "phone": "",
     "website": "https://zhengwang.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "linyi university",
     "location": {
       "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "postalCode": "276000",
+      "city": "Lin Yi",
+      "countryCode": "CN",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Zheng Wang(王政)",
+        "url": "https://scholar.google.com/citations?user=UJ34nmQAAAAJ&hl=zh-CN"
       },
       {
         "network": "ORCID",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0003-2160-8608"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "slamdunkcs",
+        "url": "https://github.com/slamdunkcs"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Suwon University",
+      "area": "Ph.D. in Electrical Engineering",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
+      "startDate": "2016",
+      "endDate": "2021",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Suwon University",
+      "area": "M.S. in Financial Big Data",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
+      "startDate": "2014",
+      "endDate": "2016",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "Suwon University",
+      "area": "B.S. in Communication Engineering",
       "studyType": "",
-      "startDate": "",
+      "startDate": "2008",
       "endDate": "2012",
       "gpa": null,
       "courses": []
@@ -66,33 +66,40 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+    "name": "BPFNN: Bayesian Probabilistic Fuzzy Neural Networks for Uncertainty-Aware Clustering and Probabilistic Fuzzy Reasoning",
+    "publisher": "IEEE Transactions on Cybernetics",
+    "releaseDate": "2025-10-01",
+    "website": "https://doi.org/10.1109/TCYB.2025.3617987",
+    "summary": "Early Access (Oct 2025). Bayesian probabilistic fuzzy neural network (BPFNN) for uncertainty-aware clustering and probabilistic fuzzy reasoning; integrates BPFCM with MCMC-based posterior inference."
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+    "name": "Robust Classification via Interval Type-2 Fuzzy C-Means and Gradient Boosting",
+    "publisher": "IEEE Transactions on Fuzzy Systems",
+    "releaseDate": "2025-09-01",
+    "website": "https://doi.org/10.1109/TFUZZ.2025.3583051",
+    "summary": "Vol. 33, No. 9, pp. 3103–3117 (Sep 2025). Robust classification via interval type-2 fuzzy C-means (IT2FCM) combined with gradient boosting."
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+    "name": "Reinforced Fuzzy-Rule-Based Neural Networks Realized Through Streamlined Feature Selection Strategy and Fuzzy Clustering With Distance Variation",
+    "publisher": "IEEE Transactions on Fuzzy Systems",
+    "releaseDate": "2024-10-01",
+    "website": "https://doi.org/10.1109/TFUZZ.2024.3422414",
+    "summary": "Vol. 32, No. 10, pp. 5674–5686 (Oct 2024). FRNNs with streamlined feature selection (correlation/determination-coefficient based) and fuzzy clustering with distance variation for high-dimensional data."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+    "name": "Design of Tobacco Leaves Classifier Through Fuzzy Clustering-Based Neural Networks With Multiple Histogram Analyses of Images",
+    "publisher": "IEEE Transactions on Industrial Informatics",
+    "releaseDate": "2024-03-01",
+    "website": "https://doi.org/10.1109/TII.2023.3326533",
+    "summary": "Vol. 20, No. 3, pp. 4698–4709 (Mar 2024). Tobacco leaf quality classification using multi-color-space histogram analyses and fuzzy clustering-based neural networks."
     }
+    {
+    "name": "Design of Iterative Fuzzy Radial Basis Function Neural Networks Based on Iterative Weighted Fuzzy C-Means Clustering and Weighted LSE Estimation",
+    "publisher": "IEEE Transactions on Fuzzy Systems",
+    "releaseDate": "2022-10-01",
+    "website": "https://doi.org/10.1109/TFUZZ.2022.3146985",
+    "summary": "Vol. 30, No. 10, pp. 4273–4285 (Oct 2022). Iterative fuzzy RBFNN design via iterative weighted FCM clustering and weighted least-squares estimation."
+  }
   ],
   "presentations": [
     {
